@@ -4,7 +4,7 @@ This project will be building a rebalanced portfolio(50 - 100 holdings) based on
 
 There are two SQL databases. Following links are reference on SQL:
 
-1. [Construct sql databases by MYI MYD FRM files] (https://stackoverflow.com/questions/879176/how-to-recover-mysql-database-from-myd-myi-frm-files)
+1. [Construct sql databases by MYI MYD FRM files](https://stackoverflow.com/questions/879176/how-to-recover-mysql-database-from-myd-myi-frm-files/).
 2. Install sql on Mac
 https://dev.mysql.com/doc/mysql-osx-excerpt/5.7/en/osx-installation-pkg.html
 3. Software to view sql data
