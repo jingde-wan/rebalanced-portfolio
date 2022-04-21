@@ -9,9 +9,8 @@ There are two SQL databases. Following links are reference on SQL:
 3. [Software to view sql data](https://www.mysql.com/products/workbench/).
 4. [SQL query](https://www.hackerrank.com/domains/sql/).
 5. Connecting sql with Python by pandas or MySQLDB
-
-http://mysql-python.sourceforge.net/MySQLdb.html
-https://gist.github.com/stefanthoss/364b2a99521d5bb76d51
+  - http://mysql-python.sourceforge.net/MySQLdb.html
+  - https://gist.github.com/stefanthoss/364b2a99521d5bb76d51
 
 
 Currently todo:
